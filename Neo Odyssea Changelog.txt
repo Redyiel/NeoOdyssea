@@ -1,4 +1,3 @@
-^^^
 30/09/24: Neo Odyssea Está em Desenvolvimento
 30/09/24: Neo Odyssea Está em DesenvolvimentoTeste1
 30/09/24: Neo Odyssea Está em DesenvolvimentoTeste2
@@ -19,4 +18,3 @@
 30/09/24: Neo Odyssea Está em DesenvolvimentoTeste2
 30/09/24: Neo Odyssea Está em DesenvolvimentoTeste3
 30/09/24: Neo Odyssea Está em DesenvolvimentoTeste4
-^^^
